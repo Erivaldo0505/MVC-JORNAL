@@ -1,0 +1,14 @@
+{
+	"noticias": [
+		{
+			
+			"titulo": "Pesquisa aponta Marcal como favorito para prefeitura de SP",
+			"noticia": "Pesquisa de intenção de voto feita pelo instituto Veritá aponta o candidato do PRTB à Prefeitura de São Paulo, Pablo Marçal, liderando pela primeira vez a corrida eleitoral na capital paulista."
+		},
+		{
+		        "titulo": "Mar pode subir até 21 cm em duas cidades do RJ até 2050, aponta estimativa da Nasa citada pela ONU ",
+                        "noticia": " A Organização das Nações Unidas (ONU) emitiu um alerta específico nesta terça-feira (27) para o Oceano Pacífico. O secretário-geral da ONU, António Guterres, divulgou um relatório - baseado em medições - que indica que o mar, em algumas localidades do Pacífico, subiu 15 centímetros nos últimos 30 anos. O Brasil não é apontado especificamente neste relatório que trata das medições recentes, mas duas cidades do RJ foram lembradas em um outro documento da ONU que reuniu estimativas e análises diversas sobre o impacto do aumento do nível dos mares."
+		}
+
+	]
+}
